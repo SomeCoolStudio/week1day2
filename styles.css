@@ -1,0 +1,174 @@
+
+  body {
+    background-color: black;
+    font-family: "Roboto", Cambria;
+} 
+
+  .item {
+    flex-grow: 4;
+  }
+
+  .top_nav_links {
+    color: white;
+    display: inline-block;
+    margin: 5px 0px 0 100px;
+  }
+
+  .center {
+    text-align: center;
+  }
+
+  #main_title {
+    color: white;
+    position: absolute;
+    left: 100px;
+    top: -10px;
+  }
+
+  .big_flex_grow{
+    flex-grow: 2;
+  }
+
+  .small_flex_grow{
+    flex-grow: 1;
+  }
+
+  #content {
+    display: flex;
+  }
+
+  a {
+    color: white;
+    text-decoration: none;
+
+  }
+
+  @font-face {
+    font-family: "Roboto";
+    src: url(/Roboto-Bold.ttf);
+  }
+
+  #date_box {
+    color: black;
+    background-color: rgb(243, 242, 242);
+    margin: 120px 400px 0 400px;
+    border: 2px solid rgb(197, 197, 197);
+  }
+
+  #background_color{
+    background-color: white;
+    height: 1750px;
+    width: auto;
+  }
+
+  div.a {
+    text-indent: 100px;
+  }
+
+  .show_pics {
+    /* margin: 100px; */
+    margin: -570px 0 0 -160px;
+    float: left;
+  }
+
+  .show_pics_2 {
+    margin: -1750px 0 0 -160px;
+    float: left;
+  }
+  
+  .show_pics_3 {
+    margin: -1360px 0 0 -160px;
+    float: left;
+  }
+
+  .show_pics_4 {
+    margin: -975px 0 0 -160px;
+    float: left;
+  }
+
+  .show_text_info {
+    margin: -2154px 250px 0 -290px;
+    float: right;
+    text-align: justify;
+  }
+
+  .show_text_info_2 {
+    margin: -1775px 250px 0 -290px;
+    float: right;
+    text-align: justify;
+  }
+
+  .show_text_info_3 {
+    margin: -1385px 250px 0 -290px;
+    float: right;
+    text-align: justify;
+  }
+
+  .show_text_info_4 {
+    margin: -1000px 250px 0 -290px;
+    float: right;
+    text-align: justify;
+  }
+
+  .read_more {
+    background-color: rgb(250, 175, 55);
+    color: white;
+    margin: -2035px -200px 0 0;
+    float: right;
+    border: 1px solid lightgrey;
+    width: 130px
+  }
+
+  .read_more_2 {
+    background-color: rgb(250, 175, 55);
+    color: white;
+    margin: -1650px -200px 0 0;
+    float: right;
+    border: 1px solid lightgrey;
+    width: 130px
+  }
+
+  .read_more_3 {
+    background-color: rgb(250, 175, 55);
+    color: white;
+    margin: -1270px -200px 0 0;
+    float: right;
+    border: 1px solid lightgrey;
+    width: 130px
+  }
+
+  .read_more_4 {
+    background-color: rgb(250, 175, 55);
+    color: white;
+    margin: -875px -200px 0 0;
+    float: right;
+    border: 1px solid lightgrey;
+    width: 130px
+  }
+
+  .margin_size {
+    margin: 600px;
+    margin-top: 605px;
+  }
+
+  .line {
+    margin: -1830px 400px 0 400px;
+    border-bottom: 2px solid lightgrey;
+  }
+
+  .line_2 {
+    margin: -240px 400px 0 400px;
+    border-bottom: 2px solid lightgrey;
+  }
+
+  .line_3 {
+    margin: -240px 400px 0 400px;
+    border-bottom: 2px solid lightgrey;
+  }
+
+  .line_4 {
+    margin: -235px 400px 0 400px;
+    border-bottom: 2px solid lightgrey;
+  }
+
+  
